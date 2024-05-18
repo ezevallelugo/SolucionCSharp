@@ -12,6 +12,7 @@ namespace Proyecto1
         {
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Cambio");
+            Console.WriteLine("Otro cambio");
             Console.ReadKey();
         }
     }
