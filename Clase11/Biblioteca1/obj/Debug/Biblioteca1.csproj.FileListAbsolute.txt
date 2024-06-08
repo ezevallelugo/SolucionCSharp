@@ -1,0 +1,6 @@
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\eze00\source\repos\Clase11\Biblioteca1\obj\Debug\Biblioteca1.pdb
