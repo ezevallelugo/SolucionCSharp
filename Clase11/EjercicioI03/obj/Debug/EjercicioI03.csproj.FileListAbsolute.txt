@@ -8,3 +8,13 @@ C:\Users\eze00\source\repos\Clase11\EjercicioI03\obj\Debug\EjercicioI03.pdb
 C:\Users\eze00\source\repos\Clase11\EjercicioI03\bin\Debug\Biblioteca2.dll
 C:\Users\eze00\source\repos\Clase11\EjercicioI03\bin\Debug\Biblioteca2.pdb
 C:\Users\eze00\source\repos\Clase11\EjercicioI03\obj\Debug\Ejercici.176A6644.Up2Date
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\bin\Debug\EjercicioI03.exe.config
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\bin\Debug\EjercicioI03.exe
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\bin\Debug\EjercicioI03.pdb
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\bin\Debug\Biblioteca2.dll
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\bin\Debug\Biblioteca2.pdb
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\obj\Debug\EjercicioI03.csproj.AssemblyReference.cache
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\obj\Debug\EjercicioI03.csproj.CoreCompileInputs.cache
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\obj\Debug\Ejercici.176A6644.Up2Date
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\obj\Debug\EjercicioI03.exe
+C:\Users\eze00\Source\Repos\SolucionCSharp\Clase11\EjercicioI03\obj\Debug\EjercicioI03.pdb
