@@ -1,0 +1,10 @@
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\bin\Debug\Ejercicio_I02.exe.config
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\bin\Debug\Ejercicio_I02.exe
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\bin\Debug\Ejercicio_I02.pdb
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\bin\Debug\Billetes.dll
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\bin\Debug\Billetes.pdb
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\obj\Debug\Ejercicio_I02.csproj.AssemblyReference.cache
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\obj\Debug\Ejercicio_I02.csproj.CoreCompileInputs.cache
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\obj\Debug\Ejercici.19920223.Up2Date
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\obj\Debug\Ejercicio_I02.exe
+C:\Users\eze00\source\repos\CuartaClase\Ejercicio_I02\obj\Debug\Ejercicio_I02.pdb

@@ -1,0 +1,6 @@
+C:\Users\eze00\source\repos\CuartaClase\Billetes\bin\Debug\Billetes.dll
+C:\Users\eze00\source\repos\CuartaClase\Billetes\bin\Debug\Billetes.pdb
+C:\Users\eze00\source\repos\CuartaClase\Billetes\obj\Debug\Billetes.csproj.AssemblyReference.cache
+C:\Users\eze00\source\repos\CuartaClase\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\eze00\source\repos\CuartaClase\Billetes\obj\Debug\Billetes.dll
+C:\Users\eze00\source\repos\CuartaClase\Billetes\obj\Debug\Billetes.pdb
