@@ -1,0 +1,10 @@
+C:\Users\eze00\source\repos\Clase17\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\eze00\source\repos\Clase17\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\eze00\source\repos\Clase17\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\eze00\source\repos\Clase17\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\eze00\source\repos\Clase17\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\eze00\source\repos\Clase17\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\eze00\source\repos\Clase17\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\eze00\source\repos\Clase17\Proyecto1\bin\Debug\Entidades1.dll
+C:\Users\eze00\source\repos\Clase17\Proyecto1\bin\Debug\Entidades1.pdb
+C:\Users\eze00\source\repos\Clase17\Proyecto1\obj\Debug\Proyecto1.csproj.Up2Date
